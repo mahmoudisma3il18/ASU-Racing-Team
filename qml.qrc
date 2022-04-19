@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/52qaM5t-_400x400-removebg-preview.png</file>
+        <file>Images/_Pngtree_battery_icon_in_neon_style_5289535-removebg-preview.png</file>
+        <file>Images/kindpng_4087985.png</file>
+        <file>Images/mmm.png</file>
+        <file>Images/Screenshot_2022-03-04_101756-removebg-preview.png</file>
+        <file>Images/Screenshot_2022-03-04_103835-removebg-preview.png</file>
+        <file>Images/Capture-removebg-preview.png</file>
+    </qresource>
+</RCC>
